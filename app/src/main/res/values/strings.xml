@@ -3,4 +3,9 @@
     <string name="label_name">Name</string>
     <string name="label_email">E-mail</string>
     <string name="label_title">Attendance Sheet</string>
+    <string name="label_msg_confirm">Student added with success</string>
+    <string name="title_new_student">New student</string>
+    <string name="remove_accepted">Student removed with success</string>
+    <string name="error_removing">Error</string>
+    <string name="unaccepted_data">Invalid Data</string>
 </resources>

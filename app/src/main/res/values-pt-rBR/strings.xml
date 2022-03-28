@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lista de chamada</string>
+    <string name="label_name">Nome</string>
+    <string name="label_email">E-mail</string>
+    <string name="label_title">Chamada</string>
+    <string name="label_msg_confirm">Aluno adicionado com sucesso</string>
+    <string name="title_new_student">Novo aluno</string>
+    <string name="remove_accepted">Aluno removido com sucesso</string>
+    <string name="error_removing">Erro</string>
+    <string name="unaccepted_data">Dados Inválidos</string>
+</resources>
